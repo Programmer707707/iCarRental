@@ -1,0 +1,19 @@
+[
+    {
+        "name": "test",
+        "email": "test@gmail.com",
+        "password": "$2y$10$sQrOQHoBhrureUuCZHNuV.os4GklddS..ikTpjmCFLjj6yxtueNha"
+    },
+    {
+        "name": "admin",
+        "email": "admin@ikarrental.hu",
+        "password": "$2y$10$iqcJBs7d\/yromUfv1Qnu0u53HV.3fpD2sy6i0aUbJIhLtMD358UCi",
+        "is_admin": true
+    },
+    {
+        "name": "user",
+        "email": "user@example.com",
+        "password": "$2y$10$abc123hashedpasswordexample",
+        "is_admin": false
+    }
+]
